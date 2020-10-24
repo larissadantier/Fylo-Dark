@@ -1,0 +1,23 @@
+.primary-button{
+    font-family: 'Raleway', 'sans-serif';
+    font-size: 14px;
+    font-weight: 700;
+
+    padding: 15px 70px;
+    margin-top: 20px;
+
+    cursor: pointer;
+
+    border-radius: 20px;
+    border: none;
+
+    color: white;
+    background: linear-gradient(90deg, rgba(101,226,217,1) 0%, rgba(51,158,204,1) 100%);
+
+    opacity: 1;
+    transition: 0.5s;
+}
+.primary-button:hover{
+    opacity: .4s;
+    background: var(--Footer);
+}
