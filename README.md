@@ -74,13 +74,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 ## 👀 Autor
 <a href="https://app.rocketseat.com.br/me/larissa-ruthyle-1566474771">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/61429963?s=400&u=0182f2fa598437842398e2f08f5dc6622df0b432&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 100%;" src="https://avatars3.githubusercontent.com/u/61429963?s=400&u=0182f2fa598437842398e2f08f5dc6622df0b432&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Larissa Dantier</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Larissa Dantier</b></sub></a> <a href="https://app.rocketseat.com.br/me/larissa-ruthyle-1566474771" title="Rocketseat">🚀</a>
 
 
 Feito com ❤️ por Larissa Dantier 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/static/v1?label=<Linkedin>&message=<LarissaDantier>&color=<white>&style=<for-the-badge>&logo=<ghost>)](https://www.linkedin.com/in/larissa-dantier-858b1884/) 
 [![Gmail Badge](https://img.shields.io/badge/-larissa_dantier@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissa_dantier@hotmail.com)](mailto:larissa_dantier@hotmail.com)
 
